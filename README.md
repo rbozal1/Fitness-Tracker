@@ -1,5 +1,5 @@
 
-# Unit 17 NoSQL Homework: Fitness Tracker
+# Unit 17: Fitness Tracker
 
 ![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg)<br />
 
