@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg)<br />
 
 This application is designed with the purpose of keeping track of a workout routine. 
+![image](https://user-images.githubusercontent.com/49447293/103115185-9e68af00-462f-11eb-9157-f587e205d756.png)
 
 ## User Story
 
